@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+<img src="https://github.com/Mirzaazmath/gradient_example_flutter/blob/main/assets/result.png" height="400">
 
 This project is a starting point for a Flutter application.
 
